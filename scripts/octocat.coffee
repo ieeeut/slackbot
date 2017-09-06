@@ -9,7 +9,6 @@
 #
 # Commands:
 #   hubot octocat me - a randomly selected octocat
-#   hubot octocat bomb me <number> - octocat-splosion!
 #
 # Author:
 #   joshuaflanagan
